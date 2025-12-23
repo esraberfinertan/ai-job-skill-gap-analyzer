@@ -66,3 +66,7 @@ Roadmap:
  Deploy web app online
  Add user authentication
  Add personalized upskilling track
+
+ Dataset
+Large CSV files are not tracked in git.
+Put the dataset under data/raw/ and run notebooks in order to generate data/processed/jobs_clean.csv.
