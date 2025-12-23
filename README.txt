@@ -41,7 +41,7 @@ Web App
 ✔ Instant feedback
 
 Installation
-git clone https://github.com/USERNAME/ai-job-skill-gap-analyzer.git
+git clone https://github.com/esraberfinertan/ai-job-skill-gap-analyzer.git
 cd ai-job-skill-gap-analyzer
 pip install -r requirements.txt
 
