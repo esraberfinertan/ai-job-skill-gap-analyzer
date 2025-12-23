@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+tqdm
+nltk
+spacy
+sentence-transformers
+torch
+transformers
+PyPDF2
+streamlit
